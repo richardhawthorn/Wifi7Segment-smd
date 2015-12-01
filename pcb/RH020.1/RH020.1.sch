@@ -3472,7 +3472,7 @@ or will meet your specific requirements.&lt;p&gt;
 <sheets>
 <sheet>
 <plain>
-<text x="166.116" y="15.748" size="3.81" layer="94" font="vector" ratio="10">7 Segment Node</text>
+<text x="166.116" y="15.748" size="3.81" layer="94" font="vector" ratio="10">Wifi 7 Segment </text>
 <text x="217.678" y="20.32" size="2.1844" layer="94" font="vector">richardhawthorn.com</text>
 <text x="166.37" y="8.382" size="2.54" layer="94" font="vector">Richard Hawthorn</text>
 <text x="347.98" y="76.2" size="1.778" layer="97">CLEAR BOTH SIDES OF SJ1</text>

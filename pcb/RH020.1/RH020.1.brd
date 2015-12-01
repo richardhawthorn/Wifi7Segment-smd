@@ -170,9 +170,9 @@
 <wire x1="0" y1="3.175" x2="0" y2="46.355" width="0.0254" layer="20"/>
 <wire x1="3.175" y1="49.53" x2="46.355" y2="49.53" width="0.0254" layer="20"/>
 <wire x1="49.53" y1="46.355" x2="49.53" y2="3.175" width="0.0254" layer="20"/>
-<text x="1.27" y="7.0485" size="1.016" layer="25">RH018.2
+<text x="1.27" y="7.0485" size="1.016" layer="25">RH020.1
 Nov 2015</text>
-<text x="25.4" y="0.3175" size="1.016" layer="25">Wifi 7 Segment
+<text x="25.4" y="0.3175" size="1.016" layer="25">Wifi 7 Segment smd
 Richard Hawthorn
 richardhawthorn.com</text>
 <hole x="46.355" y="46.355" drill="3.2"/>
